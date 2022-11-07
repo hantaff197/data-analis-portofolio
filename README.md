@@ -1,13 +1,17 @@
-# Portofolio Data Analis
-
-Portofolio hasil dari pembelajaran dari program data analis oleh Practicum Indonesia. Terdapat berbagai mata pembelajaran yang menyokong untuk menjadi seorang data analis. Seperti pra-pemrosesan data, dll. 
+# Deskripsi Data
 
 
-
-
-
-| Proyek            |Deskripsi Singkat              |Library yang digunakan                    |
-| :-------------------- | :---------------------: |:---------------------------:|
-|     Menganalisis risiko gagal bayar peminjam     |     Menganalisis faktor - faktor apa saja yang dapat menyebabkan seseorang telat membayar pinjaman ke bank, sehingga bank bisa menganalisis calon - calon peminjam yang memiliki kemungkinan membayar pinjaman tepat waktu    |      Pandas         |
+ -   children : jumlah anak dalam keluarga
+ -  days_employed: berapa lama nasabah telah bekerja
+ -   dob_years: usia nasabah
+ -  education: tingkat pendidikan nasabah
+ -   educationid: pengidentifikasi untuk tingkat pendidikan nasabah
+ -   family_status: status perkawinan nasabah
+ -   family_status_id: pengidentifikasi untuk status perkawinan nasabah
+ -   gender: jenis kelamin nasabah
+ -   income_type: jenis pendapatan nasabah
+ -   debt: apakah nasabah pernah gagal melunasi pinjaman
+ -   total_income: pendapatan bulanan
+ -   purpose: alasan mengambil pinjaman
 
 
