@@ -8,6 +8,6 @@ Portofolio hasil dari pembelajaran dari program data analis oleh Practicum Indon
 
 | Proyek            |Deskripsi Singkat              |Library yang digunakan                    |
 | :-------------------- | :---------------------: |:---------------------------:|
-|     Menganalisis risiko gagal bayar peminjam     |     Menganalisis faktor - faktor apa saja yang dapat menyebabkan seseorang telat membayar pinjaman ke bank, sehingga bank bisa menganalisis calon - calon peminjam yang memiliki kemungkinan membayar pinjaman tepat waktu    |      Pandas         |
+|     [Menganalisis risiko gagal bayar peminjam](https://github.com/hantaff197/data-analis-portofolio/tree/Proyek-1)     |     Menganalisis faktor - faktor apa saja yang dapat menyebabkan seseorang telat membayar pinjaman ke bank, sehingga bank bisa menganalisis calon - calon peminjam yang memiliki kemungkinan membayar pinjaman tepat waktu    |      Pandas         |
 
 
