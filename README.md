@@ -1,6 +1,6 @@
 # Portofolio Data Analis
 
-Portofolio hasil dari pembelajaran dari program data analis oleh Practicum Indonesia. Terdapat berbagai mata pembelajaran yang menyokong untuk menjadi seorang data analis. Seperti pra-pemrosesan data, dll. 
+Portofolio hasil dari pembelajaran dari program data analis oleh Practicum Indonesia. Terdapat berbagai mata pembelajaran yang menyokong untuk menjadi seorang data analis. Seperti pra-pemrosesan data, dll. Pengerjaan proyek sebagian besar menggunakan Python dengan Library yang digunakan  berbeda setiap pengerjaan.
 
 
 
@@ -16,3 +16,4 @@ Portofolio hasil dari pembelajaran dari program data analis oleh Practicum Indon
 |     [Analisis perusahaan Y.Ashifa](https://github.com/hantaff197/data-analis-portofolio/tree/main/Sprint%206)     |     Menganalisis pengguna aplikasi Y.Ashifa untuk melihat perilaku pengguna dan penggunaan iklan yang ideal   |      Pandas, matplotlib.pyplot, seaborn, scipy, numpy         |
 |     [Analisis di toko daring](https://github.com/hantaff197/data-analis-portofolio/tree/main/Sprint%207)     |     Menganalisis hipotesis dengan framework RICE dan melakukan A/B testing untuk melihat perbedaan konversi dan revenue pelanggan   |      Pandas, matplotlib.pyplot, seaborn, scipy, numpy         |
 |     [Proyek proposal restoran baru](https://github.com/hantaff197/data-analis-portofolio/tree/main/Sprint%208)     |     Menyiapkan data menggambar grafik untuk dijadikan bahan proposal dalam rangka proposal pembukaan restoran   |      Pandas, matplotlib.pyplot, seaborn, plotly.express, plotly graph object       |
+|     [Proyek startup dalam perilaku pengguna aplikasi](https://github.com/hantaff197/data-analis-portofolio/tree/main/Sprint%209)     |     Menganalisis corong perisitwa yang dimiliki oleh suatu aplikasi startup dan melakukan A/A/B testing   |      Pandas, matplotlib.pyplot, seaborn, scipy, numpy, math, plotly graph object       |
